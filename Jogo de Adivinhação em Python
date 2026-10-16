@@ -1,0 +1,11 @@
+1. Introdução
+Apresentação do projeto e do objetivo do jogo: adivinhar um número secreto em até cinco tentativas.
+
+2. Desenvolvimento do código
+Criação do programa em Python utilizando o comando for e as estruturas condicionais if, elif e else para verificar os palpites e dar dicas ao jogador.
+
+3. Testes do jogo
+Execução do programa para testar as possibilidades: acertar o número, informar um número maior ou menor e errar todas as cinco tentativas.
+
+4. Conclusão
+Apresentação dos resultados e explicação do que aprendi sobre laços de repetição, condições e lógica de programação.
